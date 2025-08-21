@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-##### 05/20/25 Update: 
-I'm open to work! New personal/portfolio site coming soon! In the meantime, please see my [LinkedIn](https://www.linkedin.com/in/caterauschenberger/details/experience/) for an idea of my professional experience and resume!
+##### 08/20/25 Update: 
+I'm open to work! New personal website is live and very much a work in progress... check it out [here](https://cate.is/great)!
+You can also see my [LinkedIn](https://www.linkedin.com/in/caterauschenberger/details/experience/) for an idea of my professional experience!
 
 <!--
 **crauschy/crauschy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
