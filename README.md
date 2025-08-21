@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### 08/20/25 Update: 
-I'm open to work! New personal website is live and very much a work in progress... check it out [here](https://cate.is/great)!
+I'm open to work! New personal website is live and very much a work-in-progress... check it out [here](https://cate.is/great)!
 You can also see my [LinkedIn](https://www.linkedin.com/in/caterauschenberger/details/experience/) for an idea of my professional experience!
 
 <!--
