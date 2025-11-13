@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, and welcome! 👋
 
-##### 08/20/25 Update: 
-I'm open to work! New personal website is live and very much a work-in-progress... check it out [here](https://cate.is/great)!
+##### 11/13/25 Update: 
+I'm still looking for a good full-time position, but am currently doing some fed work for a new venture formed and funded by my former CEO at Authentic! Exciting Stuff, but still under wraps :) 
+
+Personal website is live! Check it out [here](https://cate.is/great)! For now, just a dupe of my resume (with a little more pizzazz) but planning to add more features and functionality soon!
+
 You can also see my [LinkedIn](https://www.linkedin.com/in/caterauschenberger/details/experience/) for an idea of my professional experience!
 
 <!--
